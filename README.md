@@ -1,4 +1,4 @@
 # Fabian Morgan's Notes
 ## Summary
 
-This repository contains all of the notes taken by Fabian Morgan for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Fabian Morgan](https://github.com/FabianMorgan) for the [Lighthouse Labs](lighthouselabs.ca) Web Development Bootcamp.
